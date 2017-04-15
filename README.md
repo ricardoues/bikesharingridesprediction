@@ -1,3 +1,6 @@
 ## Bike Sharing Rides Prediction Project 
-## Deep Learning Foundation Nanodegree
-## Udacity
+
+Files: 
+
+(IPython Notebook)[https://github.com/ricardoues/bikesharingridesprediction/blob/master/BikeSharingRidesPrediction.ipynb]
+(html file)[https://github.com/ricardoues/bikesharingridesprediction/blob/master/BikeSharingRidesPrediction.html]
